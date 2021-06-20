@@ -1,0 +1,5 @@
+{
+    "require": {
+        "o-ba/covid-php": "^1.1"
+    }
+}
