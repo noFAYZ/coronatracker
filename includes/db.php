@@ -1,6 +1,6 @@
 
 <?php
-$servername = "thecovid.tech";
+$servername = "localhost";
 $database = "database";
 $username = "username";
 $password = "password";
