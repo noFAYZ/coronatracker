@@ -1,8 +1,8 @@
 
 <?php
 $servername = "thecovid.tech";
-$database = "fypdb";
-$username = "fypdb";
+$database = "database";
+$username = "username";
 $password = "password";
 
 // Create connection
